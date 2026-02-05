@@ -1,0 +1,51 @@
+WEEK 2 CLEANING PLAN
+====================
+Name: [Daniel Salmon]
+Date: [05/02/2026]
+
+I've completed all 5 tutorials and application checklists.
+
+Looking across all my checklists, these are the 2 most important issues 
+to address in Week 2:
+
+
+ISSUE 1 (String-linked changes)
+-------------------------
+Brief description: [What's the problem? 1 sentence]
+
+Which tutorial provides the solution: [Tutorial name/number]
+Tutorial 1
+Which variable(s) affected: [Variable name(s)]
+Collector
+Why this is important to fix: [Biological/analytical reason]
+So that the percentages recorded by each collector is correct.
+What I plan to do: [The technique I'll use, in plain English]
+Chaning Similar names into one main name. So when searched only the one main name appears.
+
+
+ISSUE 2 (Changes in variable syntax)
+--------------------------------
+Brief description: [What's the problem? 1 sentence]
+Many data inputs are NA
+Which tutorial provides the solution: [Tutorial name/number]
+Tutorial 3
+Which variable(s) affected: [Variable name(s)]
+body_mass_mg, collector, eggs_laid, eggs_hatched
+Why this is important to fix: [Biological/analytical reason]
+So that there is no bias in the results, and no errors are produced from non-numerical data being present
+What I plan to do: [The technique I'll use, in plain English]
+Create a flag to not include the NA values but stull include the rest of the data for the specific mosquito ID
+
+
+OTHER ISSUES I NOTICED (but won't fix in Week 2)
+-------------------------------------------------
+- [Mosquito id is not numbered in order - decided to leave as-is because it has no impact on the overal testing]
+
+
+QUESTIONS TO DISCUSS IN WEEK 2
+-------------------------------
+Things I'm still unsure about:
+
+1. Why have some mosquitoes hatched more eggs then they laid?
+
+2. What was the need for the treatments?
